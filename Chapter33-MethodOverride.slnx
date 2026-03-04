@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="InstrumentPlayer\InstrumentPlayer.csproj" />
+  <Project Path="ProductCatalog\ProductCatalog.csproj" />
+  <Project Path="VehicleRace\VehicleRace.csproj" />
+</Solution>
