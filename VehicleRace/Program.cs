@@ -1,4 +1,11 @@
 using System;
 
-// README.md를 읽고 코드를 작성하세요.
-Console.WriteLine("코드를 작성하세요.");
+Vihicle[] vihicles = new Vihicle[3];
+vihicles[0] = new Car("스포츠카");
+vihicles[1] = new Airplane("보잉747");
+vihicles[2] = new Boat("요트");
+
+foreach (var v in vihicles)
+{
+    v.Move();
+}
